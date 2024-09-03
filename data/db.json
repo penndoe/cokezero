@@ -4,6 +4,21 @@
       "username": "user",
       "id": "91d86b2f-f165-4a3a-bfd8-1aeccdf86a80",
       "password": "$2a$10$3dV0t7/V4jVoX6BDmdU7auY1GuyxeP31TeqITT4LrCnieveZECuV6"
+    },
+    {
+      "username": "penndoe",
+      "id": "0d4b847f-0b36-4302-b3c2-e521f159d8f0",
+      "password": "$2a$10$HCDbsKrCYbH2aymOojcD4eDT0QQWjZGIFG7Y2S9ZRKS8mhVXiUcEO"
+    },
+    {
+      "username": "zeroboy",
+      "id": "75e32a24-3643-4bc6-b094-c1e5dd15fd95",
+      "password": "$2a$10$YG4i6zn6D4Q5a9ZcJ0J55ufIaNjWYVxfHzCMW86qJQPmVguFlPAAW"
+    },
+    {
+      "username": "rixtreme",
+      "id": "0af14335-e9a7-4aa3-9884-49092ff6c94a",
+      "password": "$2a$10$cuEui19zY2Vur.kmYsOEuuTj/5dFhaU/pEl07tCn.0cd.DIXPbdrS"
     }
   ],
   "books": [
@@ -15,6 +30,21 @@
     {
       "title": "Book Two",
       "id": "2a86570e-5b7e-491d-9249-264a0815f64f",
+      "author_id": "2"
+    },
+    {
+      "title": "Book Three",
+      "id": "89617923-230d-4f06-add2-153b113d9523",
+      "author_id": "1"
+    },
+    {
+      "title": "Star Wars",
+      "id": "7ba35529-44f9-4d79-9f27-399d8bf2a8ed",
+      "author_id": "1"
+    },
+    {
+      "title": "Test",
+      "id": "f3263883-a087-4ed7-956f-867b87db2e41",
       "author_id": "2"
     }
   ],
